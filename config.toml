@@ -9,6 +9,24 @@ theme = 'relearn'
 [params]
     themeVariant ="neon"
 
+[[menu.shortcuts]]
+name="<i class='fab fa-github-square'></i>   GitHub"
+identified=""
+url="https://github.com/ManuelDeMiguel/"
+weight=1
+
+[[menu.shortcuts]]
+name="<i class='fab fa-youtube'></i>   YouTube"
+identified=""
+url="https://www.youtube.com/channel/UCFi-GsWr3DoDIvfGveFljsA"
+weight=2
+
+[[menu.shortcuts]]
+name="<i class='fas fa-graduation-cap'></i>   Instituto"
+identified=""
+url="https://cpilosenlaces.com/"
+weight=3
+
 
 [Languages]
     [Languages.es]
