@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Sobre mi on Ejemplo para el uso de idiomas</title>
+    <link>https://manueldemiguel.github.io/trabajo/</link>
+    <description>Recent content in Sobre mi on Ejemplo para el uso de idiomas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Oct 2022 20:45:24 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 20:45:24 +0200</lastBuildDate><atom:link href="https://manueldemiguel.github.io/trabajo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Descargar Hugo</title>
-      <link>http://example.org/descargar-hugo/</link>
+      <title>Hugo</title>
+      <link>https://manueldemiguel.github.io/trabajo/hugo/</link>
       <pubDate>Tue, 25 Oct 2022 20:45:24 +0200</pubDate>
-      <guid>http://example.org/descargar-hugo/</guid>
+      <guid>https://manueldemiguel.github.io/trabajo/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proceso de comunicación Cliente/Servidor</title>
+      <link>https://manueldemiguel.github.io/trabajo/proceso-de-comunicaci%C3%B3n-cliente-servidor/</link>
+      <pubDate>Fri, 28 Oct 2022 16:33:52 +0200</pubDate>
+      <guid>https://manueldemiguel.github.io/trabajo/proceso-de-comunicaci%C3%B3n-cliente-servidor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puzzle</title>
+      <link>https://manueldemiguel.github.io/trabajo/puzzle/</link>
+      <pubDate>Fri, 28 Oct 2022 16:35:52 +0200</pubDate>
+      <guid>https://manueldemiguel.github.io/trabajo/puzzle/</guid>
       <description></description>
     </item>
   </channel>
