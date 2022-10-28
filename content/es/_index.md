@@ -16,6 +16,7 @@ Me gusta mucho el anime y el manga, los videojuegos y los juegos de mesa
 ## Musica que me gusta
 ### Openings de animes
 {{< youtube 0Vwwr3VGsYg >}}
-
-
-hola
+### Canciones de musicales
+{{< youtube 4DJnjhKKCXU >}}
+### Canciones del anterior siglo
+{{< youtube NJZ8oSfIN7M >}}
