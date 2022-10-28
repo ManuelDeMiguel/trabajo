@@ -12,3 +12,7 @@ Me gusta mucho el anime y el manga, los videojuegos y los juegos de mesa
 ![Anime](images/ReZero.jpg?height=280px&classes=inline)
 ![Videjuego](images/HK.jpeg?height=280px&classes=inline)
 ![JuegoMesa](images/FourSouls.jpg?height=280px&classes=inline)
+
+## Musica que me gusta
+### Openings de animes
+{{< youtube 0Vwwr3VGsYg >}}
