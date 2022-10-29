@@ -9,13 +9,17 @@ weight: 1
 Hugo es un generador de sitios web estaticos muy rapido y flexible
 
 ## Como se instala
-### Linux
-La forma mas facil de descargar Hugo en Linux es mediante el comando snap:
+La forma mas sencilla de descargar Hugo es mediante el comando:
+
+{{< tabs groupid="comando" >}}
+{{% tab name="Linux" %}}
 ```cmd
 sudo snap instal hugo --classic
 ```
-### Windows
-La forma mas facil de descargar Hugo en Windows es mediante el comando choco:
+{{% /tab %}}
+{{% tab name="Windows" %}}
 ```cmd
 choco install hugo -confirm
 ```
+{{% /tab %}}
+{{< /tabs >}}
